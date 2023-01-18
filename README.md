@@ -4,13 +4,19 @@
 
 Tags: Recommendation Systems, Data Science, Machine Learning, Collaborative Filtering
 
-Co-created by - @kasmin
+Co-created by - [kasmin Takuldar](https://github.com/kasmintalukdar)
 
 ## Project Files
 This Project includes 1 Colab notebook, 1 Technical Document as well as 1 Presentation PDF
 
 ### Executable Files:
    Book_recomndation_system_final.ipynb - Includes all functions required for clustering operations.
+ ### Input Files:
+Book_recomndation_system.csv:
+
+Dataset 1 - [Users Data](https://drive.google.com/file/d/1-jwfc3lcpaPYdcy8NRAsdq7YbfqWyCAJ/view)
+Dataset 2 - [Ratings Data](https://drive.google.com/file/d/13pjABG9HH2CE_p2pUwYaDOv1i5XoXCXj/view)
+Dataset 3 - [Books Data](https://drive.google.com/file/d/1x3V04b3-Zw3v5jA4LgIZZhx_Q_rNxR7U/view)
    
 
 
