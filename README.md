@@ -10,7 +10,9 @@ Co-created by - @kasmin
 This Project includes 1 Colab notebook, 1 Technical Document as well as 1 Presentation PDF
 
 ### Executable Files:
-   NETFLIX MOVIES AND TV SHOWS CLUSTERING.ipynb - Includes all functions required for clustering operations.
+   Book_recomndation_system_final.ipynb - Includes all functions required for clustering operations.
+   
+
 
 ## Abstract
 During a last couple of decades, with the upward push of Youtube, Amazon, Netflix, and many different internet services, recommender systems have taken a very important place in our lives. 
