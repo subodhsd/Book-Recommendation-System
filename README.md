@@ -78,3 +78,7 @@ T MAP@K offers perception into how relevant the listing of recommended items are
 
 4) MAR@K gives  that our SVD recommender is able to recall much more then random Recommender. 
 
+## References
+1. GeeksforGeeks
+2. Kaggle
+3. Analytics Vidya
