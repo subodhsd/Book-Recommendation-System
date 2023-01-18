@@ -1,5 +1,17 @@
 # Book-Recommendation-System
 
+### In this project we have used three different datasets to come up with a book recommendation system for different users based on how they and others have rated previously purchased books.
+
+Tags: Recommendation Systems, Data Science, Machine Learning, Collaborative Filtering
+
+Co-created by - @kasmin
+
+## Project Files
+This Project includes 1 Colab notebook, 1 Technical Document as well as 1 Presentation PDF
+
+### Executable Files:
+   NETFLIX MOVIES AND TV SHOWS CLUSTERING.ipynb - Includes all functions required for clustering operations.
+
 ## Abstract
 During a last couple of decades, with the upward push of Youtube, Amazon, Netflix, and many different internet services, recommender systems have taken a very important place in our lives. 
 
